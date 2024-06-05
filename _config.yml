@@ -4,4 +4,8 @@ theme: just-the-docs
 search_enabled: false 
 favicon_ico: /fav.png
 url: https://www.centeredsecurity.com
-
+collections:
+  # Define a collection named "tests", its documents reside in the "_tests" directory
+  blog:
+    permalink: "/:collection/:path/"
+    output: true
