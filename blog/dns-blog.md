@@ -3,7 +3,6 @@ title: Unlocking the Mysteries of DNS
 layout: default
 parent: blog
 ---
-[11:35 AM] Wade VanDeburgh
 # Unlocking the Mysteries of DNS
 
 ## Introduction
