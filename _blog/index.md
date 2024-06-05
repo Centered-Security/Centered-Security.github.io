@@ -1,7 +1,6 @@
 ---
 title: blog
 layout: default
-parent: blog
 ---
 
 
