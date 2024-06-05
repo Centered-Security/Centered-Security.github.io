@@ -30,6 +30,7 @@ Before diving into the enumeration process, it's essential to understand the dif
   - Maps an IP address to a domain name, typically used for reverse DNS lookups.
 10. **CAA Record (Certification Authority Authorization)**
    - Specifies which certificate authorities (CAs) are allowed to issue certificates for the domain.
+
 ## Tools for DNS Enumeration
 Several tools can help you enumerate DNS records. Here are some of the most popular ones:
 ### 1. `nslookup`
