@@ -21,6 +21,7 @@ permalink: vmbangers
 
  ```lyrics```
  <details>
+ <summary>Lyrics</summary>
 <p> [Verse]
 Zero day alert
 Patches on the way
@@ -33,6 +34,7 @@ In the server room
 Lights are flashing bright
 Systems on the brink
 We work through the night
+</p>
 </p>
 [Chorus]
 Zero day zero fucks
