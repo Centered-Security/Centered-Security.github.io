@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: default
 title: Vulnerability Management Album
 nav_exclude: true
 search_exclude: true
