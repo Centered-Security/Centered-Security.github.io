@@ -13,7 +13,7 @@ permalink: vmbangers
 ![Album Art Back Cover](/vm/album_art_back.png)
 ![Album Art Disc](/vm/album_disc.png)
 
-## 1. Zero Day, Zero Fucks
+## 1. Zero Day, Zero Fucks (EXPLICIT)
 <audio controls>
   <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/1_Zero_Day_Zero_Fucks.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
@@ -171,7 +171,7 @@ Now just expendable
 
 
 
-## 4. P.Y.S (Patch Yo Shit) (NSFW)
+## 4. P.Y.S (Patch Yo Shit) (EXPLICIT)
 <audio controls>
   <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/4_Patch_Yo_Shit_-_Rap_2.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
