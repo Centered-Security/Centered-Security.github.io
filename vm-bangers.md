@@ -20,42 +20,46 @@ permalink: vmbangers
 </audio>
 
  ```lyrics```
- <hidden>
- [Verse]
+ <details>
+<p> [Verse]
 Zero day alert
 Patches on the way
 We dive deep in the code
 Not a second to delay
-
+</p>
+<p>
 [Verse 2]
 In the server room
 Lights are flashing bright
 Systems on the brink
 We work through the night
-
+</p>
 [Chorus]
 Zero day zero fucks
 We patch it up no luck
 Fighting bugs all around
 We won’t let them bring us down
-
+</p>
+<p>
 [Verse 3]
 Paycom team is strong
 We’re the vanguard line
 Vulnerabilities won’t stay
 Our patching’s just in time
-
+</p>
+<p>
 [Verse 4]
 Scripts and tools in hand
 We make systems safe
 Against the hackers' plans
 We’re the ones they can't enslave
-
+</p>
+<p>
 [Chorus]
 Zero day zero fucks
 We patch it up no luck
 Fighting bugs all around
 We won’t let them bring us down
+</p>
 
-
- </hidden>
+ </details>
