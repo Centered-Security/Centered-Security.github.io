@@ -13,4 +13,8 @@ permalink: vmbangers
 ![Album Art Back Cover](/vm/album_art_back.png)
 ![Album Art Disc](/vm/album_disc.png)
 
-![Zero Day, Zero Fucks](/vm/1_Zero_Day_Zero_Fucks.mp3)
+
+<audio controls>
+  <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/4_Patch_Yo_Shit_-_Rap_2.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio>
