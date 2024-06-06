@@ -15,7 +15,7 @@ permalink: vmbangers
 
 ## 1. Zero Day, Zero Fucks
 <audio controls>
-  <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/4_Patch_Yo_Shit_-_Rap_2.mp3" type="audio/mpeg">
+  <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/1_Zero_Day_Zero_Fucks.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 
@@ -376,7 +376,7 @@ But our hearts are full of sorrow
 </p>
  </details>
 
- ## BONUS: Logging in the Key of E
+## BONUS: Logging in the Key of E
 <audio controls>
   <source src="https://github.com/Centered-Security/Centered-Security.github.io/raw/main/vm/8_BONUSLogging_in_the_Key_of_E.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
