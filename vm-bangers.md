@@ -7,7 +7,7 @@ permalink: vmbangers
 ---
 
 
-#Vulnerability Management Team Album: Real Men are Vulnerable
+# Vulnerability Management Team Album: Real Men are Vulnerable
 
 ![Album Art Front cover](/vm/album_art_front.png)
 ![Album Art Back Cover](/vm/album_art_back.png)
